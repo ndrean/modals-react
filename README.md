@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 `yarn add gh-pages`, then in "package.json" add scripts:
 
 ```js
-"homepage": "ndrean.github.io/ndrean/modals-react"
+"homepage": "https://ndrean.github.io/modals-react"
 "scripts:{
   "predeploy": "yarn build",
   "deploy": "gh-pages -d build"
@@ -25,10 +25,10 @@ and visit https://ndrean.github.com/ndrean/modals-react
 > Codesandbox
 
 Just add "box"
-https://githubbox.com/ndrean/modals-in-react
+https://githubbox.com/ndrean/modals-react
 
 > Stackblitz
 
 Just add the repo name after stackblitz.com:
 
-https://stackblitz.com/github/ndrean/modals-in-react
+https://stackblitz.com/github/ndrean/modals-react

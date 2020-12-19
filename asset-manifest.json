@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ndrean.github.com/modals-in-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ndrean.github.com/modals-in-react/static/js/main.20d4e51a.chunk.js",
+    "main.js.map": "/ndrean.github.com/modals-in-react/static/js/main.20d4e51a.chunk.js.map",
+    "runtime-main.js": "/ndrean.github.com/modals-in-react/static/js/runtime-main.d9019381.js",
+    "runtime-main.js.map": "/ndrean.github.com/modals-in-react/static/js/runtime-main.d9019381.js.map",
+    "static/js/2.38a45321.chunk.js": "/ndrean.github.com/modals-in-react/static/js/2.38a45321.chunk.js",
+    "static/js/2.38a45321.chunk.js.map": "/ndrean.github.com/modals-in-react/static/js/2.38a45321.chunk.js.map",
+    "index.html": "/ndrean.github.com/modals-in-react/index.html",
+    "precache-manifest.4d4b2e89cd4dcc086e86215768c8a5c4.js": "/ndrean.github.com/modals-in-react/precache-manifest.4d4b2e89cd4dcc086e86215768c8a5c4.js",
+    "service-worker.js": "/ndrean.github.com/modals-in-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ndrean.github.com/modals-in-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.38a45321.chunk.js.LICENSE.txt": "/ndrean.github.com/modals-in-react/static/js/2.38a45321.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9019381.js",
+    "static/js/2.38a45321.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.20d4e51a.chunk.js"
+  ]
+}

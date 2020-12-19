@@ -13,14 +13,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 `yarn add gh-pages`, then in "package.json" add scripts:
 
 ```js
-"homepage": "ndrean.github.com/ndrean/modals-in-react"
+"homepage": "ndrean.github.io/ndrean/modals-react"
 "scripts:{
   "predeploy": "yarn build",
   "deploy": "gh-pages -d build"
 }
 ```
 
-https://ndrean.github.com/modals-in-react
+and visit https://ndrean.github.com/ndrean/modals-react
 
 > Codesandbox
 

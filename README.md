@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 }
 ```
 
-and visit https://ndrean.github.com/ndrean/modals-react
+and visit https://ndrean.github.io/ndrean/modals-react
 
 > Codesandbox
 
